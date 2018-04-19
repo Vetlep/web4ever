@@ -5,5 +5,10 @@ Hei, godt å se deg - Mikael
 
 if(work.equals(good))
 {
-	go home! you done know. ye ye!!;
+	goHome();
+}
+
+public void goHome() 
+{
+	System.out.println("you done know. ye ye!!");
 }
