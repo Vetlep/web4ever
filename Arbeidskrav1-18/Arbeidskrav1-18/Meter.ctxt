@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Meter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Meter\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Meter()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Meter\r\n
+comment10.params=o
+comment10.target=boolean\ equals(java.lang.Object)
+comment2.params=registreringsnummer\ plassering\ status
+comment2.target=Meter(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=newRegnum
+comment3.target=void\ setRegistreringsnummer(java.lang.String)
+comment4.params=newPlass
+comment4.target=void\ setPlassering(java.lang.String)
+comment5.params=newStatus
+comment5.target=void\ setStatus(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getRegistreringsnummer()
+comment7.params=
+comment7.target=java.lang.String\ getPlassering()
+comment8.params=
+comment8.target=java.lang.String\ getStatus()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
