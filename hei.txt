@@ -1,4 +1,9 @@
-Heiehei 
+﻿Heiehei 
 
 
 Hei, godt å se deg - Mikael
+
+if(work.equals(good))
+{
+	go home! you done know. ye ye!!;
+}
